@@ -1,4 +1,4 @@
-# Better Rail
+# Better Rail1
 
 <img src="https://better-rail.co.il/assets/images/iphone-screenshot@2x.png" width="300" align="right">
 
